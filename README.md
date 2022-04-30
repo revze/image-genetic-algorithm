@@ -7,4 +7,4 @@ NIM: **2070231027**<br>
 College: **Universitas Krisnadwipayana**
 
 ## Output
-<img src="final-output.png">
+<img src="out/final.png">
