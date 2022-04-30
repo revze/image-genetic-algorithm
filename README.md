@@ -5,3 +5,6 @@ The implementation of image replication using genetic algorithm, coded using Pyt
 Name: **Revando**<br>
 NIM: **2070231027**<br>
 College: **Universitas Krisnadwipayana**
+
+## Output
+<img src="final-output.png">
